@@ -1,0 +1,1 @@
+/var/www/Experiment/Magento-2-sampledata/vendor/magento/module-downloadable/view/frontend/web/downloadable.js
